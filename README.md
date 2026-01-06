@@ -1,3 +1,3 @@
+# Amazon-pro
 
-# Amazon-clone
-hyy this is my first clone
+hyy,
